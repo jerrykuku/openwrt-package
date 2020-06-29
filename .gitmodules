@@ -1,0 +1,3 @@
+[submodule "luci-app-vssr"]
+	path = luci-app-vssr
+	url = https://github.com/jerrykuku/luci-app-vssr.git
