@@ -1,3 +1,16 @@
 [submodule "luci-app-vssr"]
 	path = luci-app-vssr
 	url = https://github.com/jerrykuku/luci-app-vssr.git
+[submodule "node-request"]
+	path = node-request
+	url = https://github.com/jerrykuku/node-request.git
+[submodule "lua-maxminddb"]
+	path = lua-maxminddb
+	url = https://github.com/jerrykuku/lua-maxminddb.git
+[submodule "luci-theme-argon"]
+	path = luci-theme-argon
+	url = https://github.com/jerrykuku/luci-theme-argon.git
+	branch = 18.06
+[submodule "luci-app-jd-dailybonus"]
+	path = luci-app-jd-dailybonus
+	url = https://github.com/jerrykuku/luci-app-jd-dailybonus.git
