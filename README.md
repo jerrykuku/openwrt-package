@@ -5,7 +5,7 @@ Jerry's openwrt-package
 
 ##使用方法
 
-添加 src-git jerry https://github.com/jerrykuku/openwrt-package 到 OpenWRT源码根目录feeds.conf.default文件
+添加 src-git jerryk https://github.com/jerrykuku/openwrt-package 到 OpenWRT源码根目录feeds.conf.default文件
 
 然后执行
 
