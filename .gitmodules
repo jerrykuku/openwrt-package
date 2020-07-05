@@ -8,7 +8,7 @@
 	path = lua-maxminddb
 	url = https://github.com/jerrykuku/lua-maxminddb.git
 [submodule "luci-theme-argon"]
-	path = luci-theme-argon
+	path = luci-theme-argon-18.06
 	url = https://github.com/jerrykuku/luci-theme-argon.git
 	branch = 18.06
 [submodule "luci-app-jd-dailybonus"]
