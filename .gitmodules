@@ -14,3 +14,9 @@
 [submodule "luci-app-argon-config"]
 	path = luci-app-argon-config
 	url = https://github.com/jerrykuku/luci-app-argon-config.git
+[submodule "go-aliyundrive-webdav"]
+	path = go-aliyundrive-webdav
+	url = https://github.com/jerrykuku/go-aliyundrive-webdav.git
+[submodule "luci-app-go-aliyundrive-webdav"]
+	path = luci-app-go-aliyundrive-webdav
+	url = https://github.com/jerrykuku/luci-app-go-aliyundrive-webdav.git
