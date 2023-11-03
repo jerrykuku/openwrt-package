@@ -5,8 +5,6 @@ Jerry's openwrt-package
 包含了 如下应用
 - Argon 主题
 - Argon 主题配置应用
-- vssr(Helloworld)上网冲浪应用
-- jd-dailybonus 京豆签到插件
 - go-aliyundrive-webdav 阿里云盘webdav的golang实现
 - lua-maxminddb lua版本的maxminddb ip库解析器
 
