@@ -8,9 +8,6 @@
 	path = luci-theme-argon-18.06
 	url = https://github.com/jerrykuku/luci-theme-argon.git
 	branch = 18.06
-[submodule "luci-app-jd-dailybonus"]
-	path = luci-app-jd-dailybonus
-	url = https://github.com/jerrykuku/luci-app-jd-dailybonus.git
 [submodule "luci-app-argon-config"]
 	path = luci-app-argon-config
 	url = https://github.com/jerrykuku/luci-app-argon-config.git
